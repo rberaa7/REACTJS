@@ -1,8 +1,12 @@
-.boton {
-    color: blue
-}
+body{
+background-color:rgb(226, 219, 219);
 
-.navbar {
+}
+h1{
     display: flex;
-    justify-content: space-between;
+    align-content: initial;
+    font-style: oblique;
+    font-size: xx-large;
+    color: black;
+
 }
